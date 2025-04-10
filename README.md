@@ -56,8 +56,6 @@ Currently diving deeper into the world of Deep Learning and AI-powered tools to 
 ### 🤖 Machine Learning & Deep Learning  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102770?style=for-the-badge&logo=google&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E2DE2?style=for-the-badge&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ---
 
