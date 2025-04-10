@@ -70,12 +70,7 @@ Currently diving deeper into the world of Deep Learning and AI-powered tools to 
 ...and many more in progress 🚀
 
 ---
-
-## 📫 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/abhishek-choudhary-021098fbd)  
-- [Gmail](abhishekfbd0210@gmail.com)
-
----
+[![Let's Connect](https://img.shields.io/badge/-Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/abhishek-choudhary-021098fbd)  
+[![Email Me](https://img.shields.io/badge/-Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:abhishekfbd0210@gmail.com)
 
 Thanks for stopping by! Feel free to explore my repositories or reach out to collaborate on exciting data projects.
