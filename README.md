@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abhishek Choudhary!
 
-🎓 BCA | 🎯  Data Analyst 
+🎓 BCA | 🎯 Data Analyst
 
 ---
 
@@ -13,9 +13,9 @@ Currently diving deeper into the world of Deep Learning and AI-powered tools to 
 
 ## 🌟 Fun Facts
 
-- ☕ I see data stories everywhere – even in my coffee patterns  
-- 💻 I build mini-projects using  web scraping, and dashboards  
-- 📖 I unwind with mystery novels, flowers, and data visualizations  
+- 📈 I spot patterns in stock charts the way others see constellations
+- 💻 I build mini-projects using web scraping, and dashboards  
+- 📖 Mystery novels, candlestick patterns, and Power BI reports are my idea of a good time
 - 💬 I believe good communication turns great data into great decisions
 
 ---
@@ -33,48 +33,50 @@ Currently diving deeper into the world of Deep Learning and AI-powered tools to 
 ## 🛠 Tech Stack
 
 ### 💻 Languages  
-- Python  
-- SQL  
-- HTML  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### 📊 Tools  
-- Power BI  
-- Excel  
-- Jupyter Notebook  
-- Git & GitHub  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📚 Libraries & Frameworks  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Scikit-learn  
-- Plotly  
-- BeautifulSoup  
-- Selenium  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### 🤖 Machine Learning & Deep Learning  
-- Machine Learning  
-- Deep Learning  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102770?style=for-the-badge&logo=google&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E2DE2?style=for-the-badge&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ---
 
 ## 💼 Projects Showcase
 
 - **Solar Power Analysis**  
-  This project is a Streamlit-based dashboard designed to analyze and visualize data from a solar power plant. The dashboard provides insights into power generation, weather conditions, and efficiency metrics. It is built to help users explore trends, identify patterns, and make data-driven decisions.
+  A Streamlit-based dashboard to analyze and visualize solar plant data. It offers insights into power generation, weather effects, and efficiency trends to support data-driven energy decisions.
 
-- ** Comprehensive Stroke Analysis**  
- The goal is to analyze this dataset to derive meaningful insights into stroke risk factors.
+- **Comprehensive Stroke Analysis**  
+  Explored a healthcare dataset to identify key risk factors contributing to strokes. Applied exploratory data analysis and visualization to highlight patterns.
 
 ...and many more in progress 🚀
 
 ---
 
-
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/abhishek-choudhary-021098fbd)  
-- 📧 [Gmail](abhishekfbd0210@gmail.com)
+- [Gmail](abhishekfbd0210@gmail.com)
 
 ---
 
