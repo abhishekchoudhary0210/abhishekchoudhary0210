@@ -62,10 +62,13 @@ Currently diving deeper into the world of Deep Learning and AI-powered tools to 
 ## 💼 Projects Showcase
 
 - **Solar Power Analysis**  
-  A Streamlit-based dashboard to analyze and visualize solar plant data. It offers insights into power generation, weather effects, and efficiency trends to support data-driven energy decisions.
+  A Streamlit-based dashboard to analyse and visualise solar plant data. It offers insights into power generation, weather effects, and efficiency trends to support data-driven energy decisions.
 
 - **Comprehensive Stroke Analysis**  
-  Explored a healthcare dataset to identify key risk factors contributing to strokes. Applied exploratory data analysis and visualization to highlight patterns.
+  Explored a healthcare dataset to identify key risk factors contributing to strokes. Applied exploratory data analysis and visualisation to highlight patterns.
+
+  - **Used Car Price Prediction Model**  
+  Based on car specifications, this model predicts the expected sale Price for the used car. Projects involve Data Cleaning and Preprocessing, Exploratory Data Analysis (EDA), Model Selection, Training and Deployment with Streamlit.
 
 ...and many more in progress 🚀
 
