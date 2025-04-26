@@ -67,7 +67,7 @@ Currently diving deeper into the world of Deep Learning and AI-powered tools to 
 - **Comprehensive Stroke Analysis**  
   Explored a healthcare dataset to identify key risk factors contributing to strokes. Applied exploratory data analysis and visualisation to highlight patterns.
 
-  - **Used Car Price Prediction Model**  
+- **Used Car Price Prediction Model**  
   Based on car specifications, this model predicts the expected sale Price for the used car. Projects involve Data Cleaning and Preprocessing, Exploratory Data Analysis (EDA), Model Selection, Training and Deployment with Streamlit.
 
 ...and many more in progress 🚀
